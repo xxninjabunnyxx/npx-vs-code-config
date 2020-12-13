@@ -1,6 +1,6 @@
 {
   "name": "@xxninjabunnyxx/npx-vs-code-config",
-  "version": "0.0.10",
+  "version": "1.0.0",
   "description": "VS Code config via NPX",
   "main": "index.js",
   "scripts": {
