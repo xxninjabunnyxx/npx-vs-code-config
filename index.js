@@ -1,4 +1,4 @@
-//const fs = require('fs')
+const fs = require('fs')
 //const yargs = require('yargs')
 //
 //yargs.usage('Usage: $0 [options]')
