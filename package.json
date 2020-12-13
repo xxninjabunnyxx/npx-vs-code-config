@@ -1,6 +1,6 @@
 {
   "name": "@xxninjabunnyxx/npx-vs-code-config",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "VS Code config via NPX",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,8 @@
     "url": "https://github.com/xxninjabunnyxx/npx-vs-code-config/issues"
   },
   "homepage": "https://github.com/xxninjabunnyxx/npx-vs-code-config#readme",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "yargs": "^16.2.0"
-  }
+  },
+  "devDependencies": {}
 }
