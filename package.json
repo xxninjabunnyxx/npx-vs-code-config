@@ -1,0 +1,23 @@
+{
+  "name": "npx-vs-code-config",
+  "version": "0.0.1",
+  "description": "VS Code config via NPX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxninjabunnyxx/npx-vs-code-config.git"
+  },
+  "author": "xxninjabunnyxx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxninjabunnyxx/npx-vs-code-config/issues"
+  },
+  "homepage": "https://github.com/xxninjabunnyxx/npx-vs-code-config#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "yargs": "^16.2.0"
+  }
+}
