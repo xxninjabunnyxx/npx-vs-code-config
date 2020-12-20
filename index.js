@@ -21,7 +21,11 @@ const createSetings = (yargs) => {
         "titleBar.activeForeground": yargs.argv.foreground.toString().slice(0, 7),
         "titleBar.inactiveForeground": yargs.argv.foreground.toString().slice(0, 7) + 'CC',
         "titleBar.activeBackground": yargs.argv.background.toString().slice(0, 7),
-        "titleBar.inactiveBackground": yargs.argv.background.toString().slice(0, 7) + 'CC'
+        "titleBar.inactiveBackground": yargs.argv.background.toString().slice(0, 7) + 'CC',
+        "statusBar.background": yargs.argv.background.toString().slice(0, 7),
+        "statusBar.foreground": yargs.argv.foreground.toString().slice(0, 7),
+        "statusBar.noFolderBackground": yargs.argv.background.toString().slice(0, 7) + 'CC',
+        "statusBar.noFolderForeground": yargs.argv.foreground.toString().slice(0, 7) + 'CC'
         }
     }
 
